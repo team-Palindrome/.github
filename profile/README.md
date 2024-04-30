@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Team Palindrome
 <p align="center">
   <img width="312" alt="logo" src="https://github.com/team-Palindrome/.github/assets/133668286/43f643fe-8a59-46a5-b5fb-c96f9716ef3c">
