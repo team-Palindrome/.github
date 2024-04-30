@@ -1,5 +1,3 @@
-<div align="center">
-
 # Team Palindrome
 <p align="center">
   <img width="312" alt="logo" src="https://github.com/team-Palindrome/.github/assets/133668286/43f643fe-8a59-46a5-b5fb-c96f9716ef3c">
@@ -9,7 +7,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://github.com/alswla/alswla/assets/133668286/c501aad4-66e7-445c-a3f3-767d1b80d7a7" width="200"></td>
-    <td align="center"><img src="https://github.com/alswla/alswla/assets/133668286/e2924bf8-9204-45f4-9ece-fb575e082ee1" width="200"></td>
+    <td align="center"><img src="https://github.com/team-Palindrome/.github/assets/133668286/d1cf13f4-33cc-4b30-be0e-be67e3ff0630" width="200"></td>
     <td align="center"><img src="https://github.com/alswla/alswla/assets/133668286/77aa367d-985e-4ecf-8b18-d904c407e4db" width="200"></td>
   </tr>
   <tr>
